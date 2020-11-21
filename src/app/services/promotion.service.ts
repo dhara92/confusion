@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import { Promotion } from '../shared/promotion';
-import { PROMOTIONS } from '../shared/promotions';
+import { Promotion } from 'src/app/shared/promotion';
+import { PROMOTIONS } from 'src/app/shared/promotions';
 @Injectable({
   providedIn: 'root'
 })
