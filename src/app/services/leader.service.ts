@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import { Leader } from 'src/app/shared/Leader';
-import { LEADERS } from 'src/app/shared/Leaders';
+import { Leader } from 'src/app/shared/leader';
+import { LEADERS } from 'src/app/shared/leaders';
 @Injectable({
   providedIn: 'root'
 })
